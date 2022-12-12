@@ -1,0 +1,41 @@
+body{
+    text-align: center;    
+}
+h1{
+    color: #432c7a;
+}
+h3{
+    color: #e97777;
+}
+h5{
+    color: #ff8fb1;
+}
+.menu{
+    display: inline-block;
+    margin-right: 6px;
+    color: black;
+    padding: 6px 10px 6px 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: #1b2430;
+}
+.menu:hover{
+    background-color: #efca86;
+}
+.menubar{
+    background-color: wheat;
+    text-align: center;
+    height: 30px;
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#items{
+    text-align: left;
+    display: inline-block;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
